@@ -1,5 +1,7 @@
 # Предсказание стоимости автомобилей, ML hometask
 
+**Ссылка на streamlit приложение: ** https://hse-ml-hometask-yavolkova.streamlit.app/
+
 ### 1.1 EDA и предобработка данных
 
 **Наблюдения по EDA:**
